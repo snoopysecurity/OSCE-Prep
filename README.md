@@ -43,29 +43,15 @@ The following table shows notes, courses, challenges, and tutorials taken in pre
 ### Exploit Development
 | Order | Name | Type | Link |
 |--- | ----- | ----- | --- |
-| 1 | Corelan Exploit Writing Tutorial part 1: Stack Based Overflows | http://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/ | 
-| 2 | Corelan Exploit Writing Tutorial part 2: Stack Based Overflows | jumping to shellcode | http://www.corelan.be/Writing/index.php/2009/07/23/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-2/ | 
-| 3 | Corelan Exploit Writing Tutorial part 3: SEH Based Exploits | http://www.corelan.be/Writing/index.php/2009/07/25/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-3-seh/ | 
-| 4 | Corelan Exploit Writing Tutorial part 3b: SEH Based Exploits | just another example | http://www.corelan.be/index.php/2009/07/28/seh-based-exploit-writing-tutorial-continued-just-another-example-part-3b/ | 
-| 5 | Corelan Exploit Writing Tutorial part 4: From Exploit to Metasploit | The basics | http://www.corelan.be/index.php/2009/08/12/exploit-writing-tutorials-part-4-from-exploit-to-metasploit-the-basics/ | 
-| 6 | Corelan Exploit Writing Tutorial part 5: How debugger modules & plugins can speed up basic exploit development | http://www.corelan.be/index.php/2009/09/05/exploit-writing-tutorial-part-5-how-debugger-modules-plugins-can-speed-up-basic-exploit-development/ | 
-| 7 | Corelan Exploit Writing Tutorial part 6: Bypassing Stack Cookies, SafeSeh, SEHOP, HW DEP and ASLR | http://www.corelan.be/index.php/2009/09/21/exploit-writing-tutorial-part-6-bypassing-stack-cookies-safeseh-hw-dep-and-aslr/ | 
-| 8 | Corelan Exploit Writing Tutorial part 7: Unicode | from 0x00410041 to calc | http://www.corelan.be/index.php/2009/11/06/exploit-writing-tutorial-part-7-unicode-from-0x00410041-to-calc/ | 
-| 9 | Corelan Exploit Writing Tutorial part 8: Win32 Egg Hunting | http://www.corelan.be/index.php/2010/01/09/exploit-writing-tutorial-part-8-win32-egg-hunting/ | 
-| 10 | Corelan Exploit Writing Tutorial part 9: Introduction to Win32 shellcoding | http://www.corelan.be/index.php/2010/02/25/exploit-writing-tutorial-part-9-introduction-to-win32-shellcoding/ | 
+| 1 | Corelan Exploit Writing Tutorial part 1: Stack Based Overflows | Blog | http://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/ | 
+| 2 | Corelan Exploit Writing Tutorial part 2: Stack Based Overflows | Blog| jumping to shellcode | http://www.corelan.be/Writing/index.php/2009/07/23/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-2/ | 
+| 3 | Corelan Exploit Writing Tutorial part 3: SEH Based Exploits | Blog| http://www.corelan.be/Writing/index.php/2009/07/25/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-3-seh/ | 
+| 4 | Corelan Exploit Writing Tutorial part 3b: SEH Based Exploits | Blog | http://www.corelan.be/index.php/2009/07/28/seh-based-exploit-writing-tutorial-continued-just-another-example-part-3b/ | 
+| 5 | Corelan Exploit Writing Tutorial part 4: From Exploit to Metasploit | Blog | http://www.corelan.be/index.php/2009/08/12/exploit-writing-tutorials-part-4-from-exploit-to-metasploit-the-basics/ | 
+| 6 | Corelan Exploit Writing Tutorial part 5: How debugger modules & plugins can speed up basic exploit development | Blog  | http://www.corelan.be/index.php/2009/09/05/exploit-writing-tutorial-part-5-how-debugger-modules-plugins-can-speed-up-basic-exploit-development/ | 
+| 7 | Corelan Exploit Writing Tutorial part 6: Bypassing Stack Cookies, SafeSeh, SEHOP, HW DEP and ASLR | Blog  | http://www.corelan.be/index.php/2009/09/21/exploit-writing-tutorial-part-6-bypassing-stack-cookies-safeseh-hw-dep-and-aslr/ | 
+| 8 | Corelan Exploit Writing Tutorial part 7: Unicode | from 0x00410041 to calc | Blog | http://www.corelan.be/index.php/2009/11/06/exploit-writing-tutorial-part-7-unicode-from-0x00410041-to-calc/ | 
+| 9 | Corelan Exploit Writing Tutorial part 8: Win32 Egg Hunting | Blog  | http://www.corelan.be/index.php/2010/01/09/exploit-writing-tutorial-part-8-win32-egg-hunting/ | 
+| 10 | Corelan Exploit Writing Tutorial part 9: Introduction to Win32 shellcoding | Blog | http://www.corelan.be/index.php/2010/02/25/exploit-writing-tutorial-part-9-introduction-to-win32-shellcoding/ | 
 
 
-
-
-
-## Post Prep Breakdown
-
-Having completed the course, below is everything done in regards to prep before the exam. If you have not taken the AWAE and are considering taking it definitely do everything shown above, and read the source! I have provided README's in each directory and source code so you can see what I did. I cannot share extra miles .... so those will not be within the repository. Best of luck!
-
-- Complete all extra miles! I know some are harder than others but push through (one took me 8 days alone).
-- Be comfortable using every debugger shown within the course.
-- Understand Object Oriented Languages taught throughout the course. No need to be a master in each language, but be able to code something fast using existing libs.
-- Be comfortable crafting a full POC (as done throughout the entire course)
-- Look for vulnerabilities ;)
-
-This may not seem like much, but it's what I did for prep. My best advice is DO NOT OVERTHINK things and don't rush through it. It took me 2 attempts when it should have taken one, I was jumping around not documenting enough what I was trying (It's easy to create your own rabbit holes...). Slow down you have 48 hours!
