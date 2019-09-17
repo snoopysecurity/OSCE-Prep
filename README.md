@@ -1,6 +1,6 @@
 # OSCE PREP
 
-This repository contains a list of freely availiable resources that can be used as a pre-requisite before enrolling in Offensive Security's [Cracking the Perimeter (CTP)](https://www.offensive-security.com/information-security-training/cracking-the-perimeter/) course and [OSCE](https://www.offensive-security.com/information-security-certifications/osce-offensive-security-certified-expert/) certification.
+This repository contains a list of freely available resources that can be used as a pre-requisite before enrolling in Offensive Security's [Cracking the Perimeter (CTP)](https://www.offensive-security.com/information-security-training/cracking-the-perimeter/) course and [OSCE](https://www.offensive-security.com/information-security-certifications/osce-offensive-security-certified-expert/) certification.
 
 
 The following table shows notes, courses, challenges, and tutorials taken in preparation for the OSCE.
