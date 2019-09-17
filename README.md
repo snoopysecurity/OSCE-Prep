@@ -45,7 +45,7 @@ The following table shows notes, courses, challenges, and tutorials taken in pre
 |--- | ----- | ----- | --- |
 | 1 | DEFCON 16: BackTrack Foo - From bug to 0day | Presentation | https://www.youtube.com/watch?v=gHISpAZiAm0 | 
 | 2 | Corelan Exploit Writing Tutorial part 1: Stack Based Overflows | Blog | http://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/ | 
-| 3 | Corelan Exploit Writing Tutorial part 2: Stack Based Overflows | Blog| jumping to shellcode | http://www.corelan.be/Writing/index.php/2009/07/23/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-2/ | 
+| 3 | Corelan Exploit Writing Tutorial part 2: Stack Based Overflows | Blog |  http://www.corelan.be/Writing/index.php/2009/07/23/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-2/ | 
 | 4 | Corelan Exploit Writing Tutorial part 3: SEH Based Exploits | Blog| http://www.corelan.be/Writing/index.php/2009/07/25/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-3-seh/ | 
 | 5 | Corelan Exploit Writing Tutorial part 3b: SEH Based Exploits | Blog | http://www.corelan.be/index.php/2009/07/28/seh-based-exploit-writing-tutorial-continued-just-another-example-part-3b/ | 
 | 6 | Corelan Exploit Writing Tutorial part 4: From Exploit to Metasploit | Blog | http://www.corelan.be/index.php/2009/08/12/exploit-writing-tutorials-part-4-from-exploit-to-metasploit-the-basics/ | 
