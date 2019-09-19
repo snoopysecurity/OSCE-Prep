@@ -91,7 +91,7 @@ The following table shows notes, courses, challenges, and tutorials that can tak
 | 8 | SecuritySift Windows Exploit Development – Part 1: The Basics | Tutorial | https://www.securitysift.com/windows-exploit-development-part-1-basics/
 | 9 | SecuritySift Windows Exploit Development – Part 2: StackOverflow | Tutorial | https://www.securitysift.com/windows-exploit-development-part-2-intro-stack-overflow/
 | 10 | SecuritySift Windows Exploit Development – Part 3: Changing Offsets and Rebased Modules | Tutorial | https://www.securitysift.com/windows-exploit-development-part-3-changing-offsets-and-rebased-modules/
-| 11 | SecuritySift Windows Exploit Development – Part 4: Locating Shellcode Jumps) | Tutorial | securitysift.com/windows-exploit-development-part-4-locating-shellcode-jumps/
+| 11 | SecuritySift Windows Exploit Development – Part 4: Locating Shellcode Jumps) | Tutorial | https://www.securitysift.com/windows-exploit-development-part-4-locating-shellcode-jumps/
 | 12 | SecuritySift Windows Exploit Development – Part 5: Locating Shellcode Egghunting | Tutorial | https://www.securitysift.com/windows-exploit-development-part-5-locating-shellcode-egghunting/
 | 13 | SecuritySift Windows Exploit Development – Part 6: SHE Exploits | Tutorial | https://www.securitysift.com/windows-exploit-development-part-6-seh-exploits/
 | 14 | SecuritySift Windows Exploit Development – Part 7: Unicode Buffer Overflows | Tutorial  | https://www.securitysift.com/windows-exploit-development-part-7-unicode-buffer-overflows/
