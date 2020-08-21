@@ -119,3 +119,8 @@ The following table shows notes, courses, challenges, and tutorials that can tak
 | 8 | Live Demo from Backtrack to the MAX 3/5 | Tool | https://www.youtube.com/watch?v=IWf7UM7qX0M |
 | 9 | Live Demo from Backtrack to the MAX 4/5 | Tool | https://www.youtube.com/watch?v=azepnwdVfyU |
 | 10 | Live Demo from Backtrack to the MAX 5/5 | Tool | https://www.youtube.com/watch?v=6gmAoW1mtYg |
+| 11 | CTP/OSCE Scripts | Repository | https://github.com/h0mbre/CTP-OSCE |
+| 12 | OSCE-exam-practice | Repository | https://github.com/epi052/OSCE-exam-practice |
+| 13 | Vulnserver: Fuzzing and Exploits | Repository | https://github.com/ricardojoserf/vulnserver-exploits |
+
+
